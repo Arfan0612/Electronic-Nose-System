@@ -1,0 +1,21 @@
+The meaning of each abbreviations used for each experiment:
+
+CA = Clean Air
+
+CURB = Cut Unripe Banana
+
+CRB = Cut Ripe Banana
+
+CORB = Cut Overripe Banana
+
+CURM = Cut Unripe Mango
+
+CRM = Cut Ripe Mango
+
+CORM = Cut Overripe Mango
+
+CURT = Cut Unripe Tomato
+
+CRT = Cut Ripe Tomato
+
+CORT = Cut Overripe Tomato
