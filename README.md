@@ -10,4 +10,6 @@ The stages taken in this research can be summarized into 4 categories:
 - Machine Learning
 - Evaluation
 
+For a more detailed explanation please refer to the report pdf attached.
+
 
