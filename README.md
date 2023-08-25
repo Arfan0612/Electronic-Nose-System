@@ -10,6 +10,21 @@ The stages taken in this research can be summarized into 4 categories:
 - Machine Learning
 - Evaluation
 
-For a more detailed explanation please refer to the report pdf attached.
+# Folders
+### Classification Session
+This folder includes the different MATLAB session to test a total of 11 combination of features to get the ideal data input for training.
+
+### Datasets for model
+This folder contains raw and preprocessed datasets with each dataset containing the features such as mean, RMS, skew, etc.
+The prepocessed worflow picture is also included in this folder. The datasets are split into 20% training and 80% testing.
+
+### Gathered Data in Excel
+This folder contains exact values obtained gas sensor during data collection with the fruits in the gas chamber.
+- Acquire_Arduino_Data.m contains the code used to do data collection using an Arduino MEGA.
+
+### Plotted graphs and Subplot graphs
+These folders just contain the visual representation of the sensor response during data collection where:
+- Plotted graphs showcases all 11 gas sensor response in one graph
+- Subplot graphs shows each sensors individual responses
 
 
