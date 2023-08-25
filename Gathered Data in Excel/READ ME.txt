@@ -1,0 +1,5 @@
+- These excel sheets contain exact values of sensor data during experimentation of each sample
+- These are raw data recorded from the experiment
+- The datas were only recorded at the end of each sample experiment NOT during collection
+- Refer to report detailing the experiment setup
+- The MATLAB script in this folder was used to utilize Arduino MEGA for data collection

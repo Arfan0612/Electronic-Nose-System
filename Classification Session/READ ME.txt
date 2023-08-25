@@ -1,0 +1,2 @@
+- For better understanding of the meaning of each experiment in "Feature Combinations" 
+  folder, refer to section 5.2 of the final report which is included in the outer folders

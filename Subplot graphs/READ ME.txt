@@ -1,0 +1,2 @@
+- For each type of fruit there are 10 data samples
+- Each sample contains detailed response of all individual 11 gas sensors used

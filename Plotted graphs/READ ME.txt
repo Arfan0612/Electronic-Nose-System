@@ -1,0 +1,4 @@
+- 10 samples for each fruit type
+- Each sample have a plotted combined response of all 11 sensors
+- Each graph was only plotted and saved at the end of each sample experiment NOT during
+  sample collection
