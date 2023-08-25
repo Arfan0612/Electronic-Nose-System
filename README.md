@@ -21,10 +21,12 @@ The prepocessed worflow picture is also included in this folder. The datasets ar
 ### Gathered Data in Excel
 This folder contains exact values obtained gas sensor during data collection with the fruits in the gas chamber.
 - Acquire_Arduino_Data.m contains the code used to do data collection using an Arduino MEGA.
+- Refer to ABBREVIATION MEANING text file to know which fruit each dataset is for
 
 ### Plotted graphs and Subplot graphs
 These folders just contain the visual representation of the sensor response during data collection where:
 - Plotted graphs showcases all 11 gas sensor response in one graph
 - Subplot graphs shows each sensors individual responses
+- Refer to ABBREVIATION MEANING text file to know which fruit each dataset is for
 
 
