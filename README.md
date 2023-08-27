@@ -3,6 +3,10 @@ The research's aim is to develop an e-nose system to determine fruit ripeness, c
 focusing on bananas, mangoes, and tomatoes at unripe, ripe, and overripe stages. MATLAB's user-friendly add-on assists in building classification models, employing machine learning algorithms like decision 
 trees and support vector machines.
 
+The circuit schematic used is as shown below and you can refer to the pdf to know the exact MQ-series gas sensors used:
+
+![image](https://github.com/Arfan0612/Electronic-Nose-System/assets/94776851/7cd910c3-4d43-418b-b661-14400475afd6)
+
 # Methodology
 The stages taken in this research can be summarized into 4 categories:
 - Data Acquisition
